@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance Tracker</string>
+    <string name="blue_color">#039be5</string>
+    <string name="subject_delete_warning">Are you sure you want to delete this SUBJECT?</string>
+</resources>
